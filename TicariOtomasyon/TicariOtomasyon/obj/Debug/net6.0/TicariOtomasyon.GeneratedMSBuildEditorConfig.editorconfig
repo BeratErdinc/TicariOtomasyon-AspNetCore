@@ -1,0 +1,224 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TicariOtomasyon
+build_property.RootNamespace = TicariOtomasyon
+build_property.ProjectDir = C:\Users\202516044\Desktop\Asp\TicariOtomasyon\TicariOtomasyon\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\202516044\Desktop\Asp\TicariOtomasyon\TicariOtomasyon
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/CariPanel/GelenMesajlar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyaVBhbmVsXEdlbGVuTWVzYWpsYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/CariPanel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyaVBhbmVsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/CariPanel/KargoTakip.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyaVBhbmVsXEthcmdvVGFraXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/CariPanel/MesajDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyaVBhbmVsXE1lc2FqRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/CariPanel/MesajGonder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyaVBhbmVsXE1lc2FqR29uZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/CariPanel/Sıparıslerım.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyaVBhbmVsXFPEsXBhcsSxc2xlcsSxbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Cari/CariEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyaVxDYXJpRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Cari/CariGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyaVxDYXJpR2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Cari/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Cari/MusteriSatıs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyaVxNdXN0ZXJpU2F0xLFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Departman/DepartmanDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWFuXERlcGFydG1hbkRldGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Departman/DepartmanEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWFuXERlcGFydG1hbkVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Departman/DepartmanPersonelSatış.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWFuXERlcGFydG1hblBlcnNvbmVsU2F0xLHFny5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Departman/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWFuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Faturalar/FaturaDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF0dXJhbGFyXEZhdHVyYURldGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Faturalar/FaturaEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF0dXJhbGFyXEZhdHVyYUVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Faturalar/Getir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF0dXJhbGFyXEdldGlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Faturalar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF0dXJhbGFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Galeri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsZXJpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Kargo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FyZ29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Kargo/KargoDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FyZ29cS2FyZ29EZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Kargo/KargoEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2FyZ29cS2FyZ29Fa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Kategori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Kategori/KategoriGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Kategori/YeniKategori.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcWWVuaUthdGVnb3JpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Personel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Personel/PersonelEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcUGVyc29uZWxFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Personel/PersonelGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcUGVyc29uZWxHZXRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Personel/PersonelListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcUGVyc29uZWxMaXN0ZXNpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Satış/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F0xLHFn1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Satış/SatışEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F0xLHFn1xTYXTEscWfRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Shared/CariPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENhcmlQYW5lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Shared/Components/Caris/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FyaXNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Shared/Components/Departman/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGVwYXJ0bWFuXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Shared/Components/Kayıt/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcS2F5xLF0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/UrunDetay/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bkRldGF5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Yapılcaklar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWFwxLFsY2FrbGFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Ürün/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncw5xyw7xuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Ürün/SatısYap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncw5xyw7xuXFNhdMSxc1lhcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Ürün/ÜrünDüzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncw5xyw7xuXMOccsO8bkTDvHplbmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Ürün/ÜrünEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncw5xyw7xuXMOccsO8bkVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/İstatistik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcxLBzdGF0aXN0aWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/İstatistik/SımpleTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcxLBzdGF0aXN0aWtcU8SxbXBsZVRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202516044/Desktop/Asp/TicariOtomasyon/TicariOtomasyon/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-b9ma2tgmo1

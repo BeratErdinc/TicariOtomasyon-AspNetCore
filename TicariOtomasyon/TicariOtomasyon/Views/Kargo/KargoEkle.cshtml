@@ -1,0 +1,26 @@
+﻿@model TicariOtomasyon.Models.KargoDetay
+@{
+    ViewData["Title"] = "KargoEkle";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<form method="post">
+
+    <label>Takip Kodu</label>
+    <input type="text" value="@ViewBag.takipkod" class="form-control" readonly name="TakipKodu"/>
+      <label>Personel</label>
+   @Html.TextBoxFor(x=>x.Personel, new{@class="form-control"})
+     <label>Alıcı</label>
+   @Html.TextBoxFor(x=>x.Alıcı, new{@class="form-control"})
+   @Html.LabelFor(x=>x.Tarih)
+  <input class="form-control" type="date" name="Tarih" />
+        <label>Açıklama</label>
+   @Html.TextAreaFor(x=>x.Acıklama, new{@class="form-control"})
+
+ 
+  
+   <button class="btn btn-primary"> Ekle</button>
+
+</form>
+

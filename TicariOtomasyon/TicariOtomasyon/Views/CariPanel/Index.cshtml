@@ -1,0 +1,32 @@
+﻿@model TicariOtomasyon.Models.Cari
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/CariPanel.cshtml";
+    
+}
+
+<h1>Index</h1>
+
+ <table class="table table-bordered">
+
+<tr>
+    <td>
+        Mail Adresiniz : @ViewBag.dg
+    </td>
+</tr>
+<tr>
+    <td>
+        Ad: @Html.TextBoxFor(x=>x.CariAd,new{@class="form-control"})
+    </td>
+</tr>
+<tr>
+    <td>
+        Soyad: @Html.TextBoxFor(x=>x.CariSoyad,new{@class="form-control"})
+    </td>
+</tr>
+<tr>
+    <td>
+        Şifre: @Html.TextBoxFor(x=>x.CariSifre,new{@class="form-control"})
+    </td>
+</tr>
+</table>

@@ -1,0 +1,25 @@
+﻿@model TicariOtomasyon.Models.SatısHareket
+@{
+    ViewData["Title"] = "SatışEkle";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<form method="post">
+    <label>Ürün</label>
+     @Html.DropDownListFor(x=>x.Ürünler.UrunId,(List<SelectListItem>)ViewBag.dgr, new{@class="form-control"})
+     <label>Cari</label>
+     @Html.DropDownListFor(x=>x.Cari.CariId,(List<SelectListItem>)ViewBag.dgr2, new{@class="form-control"})
+     <label>Personel</label>
+     @Html.DropDownListFor(x=>x.Personel.PersonelId,(List<SelectListItem>)ViewBag.dgr3, new{@class="form-control"})
+     <label>Adet</label>
+     @Html.TextBoxFor(x=>x.Adet, new {@class="form-control"})
+     <label>Fiyat</label>
+          @Html.TextBoxFor(x=>x.Fiyat, new {@class="form-control"})
+
+  <label>Toplam Tutar</label>
+     @Html.TextBoxFor(x=>x.ToplamTutar, new {@class="form-control"})
+
+     <button class="btn btn-dark"> Ekle</button>
+
+</form>
+

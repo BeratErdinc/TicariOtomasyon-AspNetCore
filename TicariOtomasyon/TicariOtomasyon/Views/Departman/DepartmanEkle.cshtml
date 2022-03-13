@@ -1,0 +1,18 @@
+﻿@model TicariOtomasyon.Models.Departman
+@{
+    ViewData["Title"] = "DepartmanEkle";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<form method="post">
+<label> Departman Ad</label>
+@Html.TextBoxFor(x=>x.DepartmanAd, new{@class="form-control"})
+<button class="btn btn-outline-success"> Kaydet </button>
+
+
+
+
+</form>
+
+

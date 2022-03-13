@@ -1,0 +1,38 @@
+﻿@using TicariOtomasyon.Models
+@model List<Cari>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<table class="table table-striped">
+    <tr>
+        <th>CariId</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Şehir</th>
+        <th>Mail</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+        <th>Detaylar</th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>@item.CariId</th>
+            <th>@item.CariAd</th>
+            <th>@item.CariSoyad</th>
+            <th>@item.CariSehir</th>
+            <th>@item.CariMail</th>
+             <td><a href="/Cari/CariSil/@item.CariId" class="btn btn-danger">Sil </a></td>
+            <td><a href="/Cari/CariGetir/@item.CariId" class="btn btn-warning">Güncelle </a></td>
+          <td><a href="/Cari/MusteriSatıs/@item.CariId" class="btn btn-dark">Satış Detay </a></td>
+
+
+        </tr>
+    }
+
+</table>
+<a href="/Cari/CariEkle/" class="btn btn-dark"> Yeni Cari Ekle</a>
+

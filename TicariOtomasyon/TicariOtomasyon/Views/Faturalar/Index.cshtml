@@ -1,0 +1,43 @@
+﻿@using TicariOtomasyon.Models
+@model List<Faturalar>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<table class="table table-striped">
+    <tr>
+        <th>Id</th>
+        <th>Seri No</th>
+        <th>Vergi Dairesi</th>
+        <th>Tarih</th>
+        <th>Saat</th>
+        <th>Toplam</th>
+        <th>Teslim Eden</th>
+        <th>Teslim Alan</th>
+        <th>Güncelle
+        </th>
+        <th>Deptaylar</th>
+    </tr>
+
+     @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.FaturaId</td>
+            <td>@x.FaturaSeriNo</td>
+            <td>@x.VergiDairesi</td>
+            <td>@x.Tarih</td>
+            <td>@x.Saat</td>
+            <th>100</th>
+            <th>@x.TeslimEden</th>
+            <th>@x.TeslimAlan</th>
+            <td><a href="/Faturalar/Getir/@x.FaturaId" class="btn btn-dark">Güncelle </a></td>
+          <td><a href="/Departman/DepartmanDetay/@x.FaturaId" class="btn btn-warning">FaturaDetay </a></td>
+
+        </tr>
+    }
+
+</table>
+
+<a href="/Faturalar/FaturaEkle" class="btn btn-dark" > Yeni Fatura
+    </a>

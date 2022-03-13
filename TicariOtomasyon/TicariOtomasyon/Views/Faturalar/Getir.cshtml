@@ -1,0 +1,26 @@
+﻿@model TicariOtomasyon.Models.Faturalar
+@{
+    ViewData["Title"] = "Getir";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+@using(@Html.BeginForm("FaturaGüncelle","Fatura",FormMethod.Post))
+{
+    
+    <label> Fatura Seri No</label>
+@Html.TextBoxFor(x=>x.FaturaSeriNo, new{@class="form-control"})
+<label>Fatura Sıra No</label>
+@Html.TextBoxFor(x=>x.FaturaSıraNo, new{@class="form-control"})
+<label>Vergi Dairesi</label>
+@Html.TextBoxFor(x=>x.VergiDairesi, new{@class="form-control"})
+<label>Tarh</label>
+@Html.TextBoxFor(x=>x.Tarih, new{@class="form-control"})
+<label>Saat</label>
+@Html.TextBoxFor(x=>x.Saat, new{@class="form-control"})
+<label>Teslim Eden</label>
+@Html.TextBoxFor(x=>x.TeslimEden, new{@class="form-control"})
+<label>Teslim Alan</label>
+@Html.TextBoxFor(x=>x.TeslimAlan, new{@class="form-control"})
+@Html.HiddenFor(x=>x.FaturaId)
+<button class="btn btn-outline-success"> Güncelle </button>
+}

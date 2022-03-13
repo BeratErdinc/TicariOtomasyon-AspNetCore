@@ -1,0 +1,22 @@
+﻿@using TicariOtomasyon.Models
+@model List<KargoTakip>
+@{
+    ViewData["Title"] = "KargoDetay";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<table class="table table-bordered">
+   <tr>
+       <th>Acıklama</th>
+       <th>Tarih</th>
+   </tr>
+ @foreach (var x in Model)
+ {
+     <tr>
+         <td>@x.Acıklama</td>
+         <td>@x.TarihZaman</td>
+     </tr>
+ }
+
+</table>
+

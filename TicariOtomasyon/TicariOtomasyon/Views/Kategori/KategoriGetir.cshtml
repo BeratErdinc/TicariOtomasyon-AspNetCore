@@ -1,0 +1,13 @@
+﻿@model TicariOtomasyon.Models.Kategori
+@{
+    ViewData["Title"] = "KategoriGetir";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+@using(@Html.BeginForm("KategoriGüncelle","Kategori",FormMethod.Post))
+{
+    @Html.HiddenFor(x=>x.KategoriId)
+    @Html.TextBoxFor(x=>x.KategoriAd, new{@class="form-control"})
+<button class="btn btn-outline-success"> Güncelle </button>
+}
+

@@ -1,0 +1,37 @@
+﻿@using TicariOtomasyon.Models
+@model List<SatısHareket>
+@{
+    ViewData["Title"] = "MusteriSatıs";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<table class="table table-bordered">
+
+    <tr>
+        <th> Satış Id</th>
+        <th> Ürün</th>
+        <th> Cari</th>
+        <th> Fiyat</th>
+        <th> Adet</th>
+        <th>Toplam</th>
+        <th> Tarih</th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>@item.SatısId</th>
+            <th>@item.Ürünler.UrunAd</th>
+            <th>@item.Personel.PersonelAd</th>
+            <th>@item.Fiyat</th>
+            <th>@item.Adet</th>
+            <th>@item.ToplamTutar</th>
+            <th>@item.Tarih</th>
+
+        </tr>
+    }
+
+
+
+</table>
+
